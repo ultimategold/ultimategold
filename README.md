@@ -1,18 +1,4 @@
-### Hi there 👋
-### " ✔ About Me
-
-### I am in a perpetual Beta mode, a "wannabe" Geek, a Social Media and Communication addict.
-
-### Also, a recruitment and sourcing specialist, having around 7 years of enriched experience in hiring Mechanical, IT & Non-IT professionals across the globe. I am a Portal & Social Media sourcing expert currently hiring for diversified roles in and around different cities of Europe & APJ.
-
-### I do have proven experience in recruiting IT talent, availing of job boards and vendor sourcing partnerships with top Startups, Midsize Product Organizations, Multibillion Conglomerates.
-
-### I handle the recruitment cycle for Middle, Senior and Top Management levels.
-
-### ✔ What do I do?
-
-
-### I convert People to Candidates which means I work with internal recruiters and on their behalf, I identify, contact and engage with highly qualified professionals. My goal is to understand these people’s motivations and just propose them to be introduced to the recruiter/HR person. Mainly for hard-to-fill positions."
+### My expertise lies in problem-solving, and I have honed my analytical mindset through extensive experience in Python, Golang, and PowerBI. In my most recent role at Sustained, I built a sustainability calculator that demonstrated my proficiency in data analytics. I am dedicated to staying ahead of the curve in rapidly evolving industries and consistently adapt my skills to meet the demands of changing markets.
 
 <!--
 **ultimategold/ultimategold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
